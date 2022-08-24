@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ # **Who are we?
